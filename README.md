@@ -1,3 +1,3 @@
-Spicmacay Aradhana Official Website.
+Spicmacay Aradhana 2022 Official Website.
 
-Live at https://spicmacay-nitk.github.io/
+Live at https://spicmacaynitk.netlify.app/
